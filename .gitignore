@@ -1,8 +1,8 @@
+
+#  git clean -X -f
+
 *.mp4_original
 *.mp4_exiftool_tmp
-
-
-# git clean -x -f
 *.mp4_original_original
 *.pdf_exiftool_tmp
 *.pdf_original
