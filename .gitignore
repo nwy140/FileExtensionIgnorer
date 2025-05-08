@@ -3,3 +3,6 @@
 
 
 # git clean -x -f
+*.mp4_original_original
+*.pdf_exiftool_tmp
+*.pdf_original
